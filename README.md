@@ -185,14 +185,4 @@ This project demonstrates how Python and Power BI can be combined to analyze agr
 
 ---
 
-## 👨‍💻 Author
 
-**Vasuki Anand**
-
-Data Analytics Project
-
-GitHub: https://github.com/vasukishanmugam8-creator
-
----
-
-## ⭐ If you found this project useful, don't forget to Star this repository!
