@@ -158,7 +158,7 @@ The interactive dashboard includes:
 Example:
 
 ```
-C:\DT ASSSIGNMENTS\main project/dashboard.png
+![Power BI Dashboard](Images/dashboard.png)
 ```
 
 ---
