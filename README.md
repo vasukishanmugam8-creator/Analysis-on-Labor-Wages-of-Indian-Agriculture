@@ -153,16 +153,9 @@ The interactive dashboard includes:
 
 ## 📸 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
+## 📸 Power BI Dashboard
 
-Example:
-
-```
 ![Power BI Dashboard](Images/dashboard.png)
-```
-
----
-
 ## 📁 Repository Structure
 
 ```
