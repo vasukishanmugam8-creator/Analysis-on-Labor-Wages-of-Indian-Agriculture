@@ -158,7 +158,7 @@ The interactive dashboard includes:
 Example:
 
 ```
-images/dashboard.png
+C:\DT ASSSIGNMENTS\main project/dashboard.png
 ```
 
 ---
